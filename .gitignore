@@ -1,0 +1,42 @@
+# KiCad files to ignore
+
+#Backups from Kicad
+*.kicad_sch-bak. 
+*.kicad_pcb-bak
+
+#Autosave
+*.autosave
+
+#User project settings
+*.kicad_prl
+
+#Exported fabrication files(not source files)
+*.gbr
+*.gbl
+*.gtl
+*.gts
+*.gto
+*.gbs
+*.gbo
+*.drl
+*.pos
+*.step
+*.stp
+
+#Cache and rescue lib's
+*-cache.lib
+*-rescue.lib
+*.wrl
+*.3dshapes
+
+#kicad 3d model cache(rendering)
+*.step
+*.stp
+
+# netlist and BOM exports
+*.xml
+*.netlist
+*.csv
+#Python scripts cache
+__pycache__/
+*.pyc
