@@ -20,3 +20,4 @@ After making the visual layout, i extracted the code and put it in a layout fold
 Then, i had to install marbastlib and Kicad. It took SO long to set it up that 2/3 of my recording is me asking copilot how
 to fix my libraries, bc i had bypass restrictions and all of that..
 I at least managed to open the pcb app which is HUGE.
+![My Image](images/kicad-pcb1)
